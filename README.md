@@ -19,4 +19,9 @@ PROJECT_PATH- Root project folder.
 CLIENT_JAR-Full path of jar file  
 SERVICE_MODULE_PATH- Full path of module-service project folder.  
 DEPENDENCY_LIB-Path of "dependency" folder containing apache POI and its dependency jar files.  
+
+############################################
+Modify the input and output file names.  
+Modify ClientModuleTest.java to change Source and Destination values.  
+#############################################  
 # projects
